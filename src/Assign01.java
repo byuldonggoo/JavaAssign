@@ -10,5 +10,6 @@ public class Assign01 {
         if(n<0) System.out.println("이 값은 음의 값입니다.");
 
 
+
     }
 }
