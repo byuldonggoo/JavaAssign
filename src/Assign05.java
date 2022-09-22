@@ -1,3 +1,5 @@
+//정숫값을 읽어 부호(양수/음수/0)를 판정하는 프로그램을 작성하자.ㄴ
+
 import java.util.Scanner;
 
 public class Assign05 {
