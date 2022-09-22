@@ -2,16 +2,16 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="6555dce8-c504-4e6d-8a30-06a113655edf" name="Changes" comment="자바과제">
-      <change afterPath="$PROJECT_DIR$/src/Assign02.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Assign03.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Assign04.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Assign05.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Assign06.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Assign07.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Assign08.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Assign09.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Assign10.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Assign01.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Assign01.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Assign02.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Assign02.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Assign03.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Assign03.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Assign04.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Assign04.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Assign06.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Assign06.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Assign07.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Assign07.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Assign08.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Assign08.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Assign09.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Assign09.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Assign10.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Assign10.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -44,7 +44,7 @@
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "WebServerToolWindowFactoryState": "false",
-    "last_opened_file_path": "D:/mj_data/java_data/pro0921"
+    "last_opened_file_path": "D:/mj_data/java_data/Study0922"
   }
 }]]></component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
@@ -55,7 +55,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1663828210112</updated>
-      <workItem from="1663828211248" duration="521000" />
+      <workItem from="1663828211248" duration="1677000" />
     </task>
     <task id="LOCAL-00001" summary="자바과제">
       <created>1663828235909</created>
@@ -78,7 +78,14 @@
       <option name="project" value="LOCAL" />
       <updated>1663828477743</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="자바과제">
+      <created>1663828770561</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1663828770561</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">

@@ -1,3 +1,4 @@
+//Assign03을 논리부정연산자(!)를 사용해서 수정
 import java.util.Scanner;
 
 public class Assign04 {

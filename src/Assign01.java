@@ -1,4 +1,4 @@
-//읽은 정수값이 음의 값인가?
+//키보드로 입력한 정숫값이 음이면 "이 값은 음의 값입니다"라고 표시하는 프로그램 작성
 import java.util.Scanner;
 
 public class Assign01 {

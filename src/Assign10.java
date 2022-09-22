@@ -1,5 +1,6 @@
-import java.util.Scanner;
+//입력한 점수에 따라 수/우/미/양/가를 판정하는 프로그램을 작성하자
 
+import java.util.Scanner;
 public class Assign10 {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);

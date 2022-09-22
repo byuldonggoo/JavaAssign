@@ -1,3 +1,5 @@
+//2개의 양의 정숫값을 읽어서, 후자가 전자의 약수이면 "B는 A의 약수이다"라고 표시.
+
 import java.util.Scanner;
 
 public class Assign03 {

@@ -1,3 +1,8 @@
+/*
+2개의 변수 a,b에 값을 읽어서 a,b의 대소 관계를 다음과 같이 표시하는 프로그램을
+작성하자. "a가 크다","b가 크다","c가 크다"
+*/
+
 import java.util.Scanner;
 
 public class Assign06 {

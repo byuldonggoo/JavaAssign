@@ -1,3 +1,5 @@
+//정숫값을 읽어서 절댓값을 구하는 프로그램을 작성
+
 import java.util.Scanner;
 
 public class Assign02 {
