@@ -1,8 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="6555dce8-c504-4e6d-8a30-06a113655edf" name="Changes" comment="자바과제">
-      <change afterPath="$PROJECT_DIR$/src/Assign11.java" afterDir="false" />
+    <list default="true" id="6555dce8-c504-4e6d-8a30-06a113655edf" name="Changes" comment="자바과제 0923">
+      <change afterPath="$PROJECT_DIR$/src/Assign12.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Assign13.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Assign14.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Assign15.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Assign11.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Assign11.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -30,14 +35,52 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "WebServerToolWindowFactoryState": "false",
-    "last_opened_file_path": "D:/mj_data/java_data/Study0922"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;last_opened_file_path&quot;: &quot;D:/mj_data/java_data/Study0922&quot;
   }
-}]]></component>
+}</component>
+  <component name="RunManager" selected="Application.Assign15">
+    <configuration name="Assign11" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Assign11" />
+      <module name="JavaAssign" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Assign12" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Assign12" />
+      <module name="JavaAssign" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Assign13" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Assign13" />
+      <module name="JavaAssign" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Assign15" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Assign15" />
+      <module name="JavaAssign" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Assign15" />
+        <item itemvalue="Application.Assign13" />
+        <item itemvalue="Application.Assign12" />
+        <item itemvalue="Application.Assign11" />
+      </list>
+    </recent_temporary>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -46,7 +89,9 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1663828210112</updated>
-      <workItem from="1663828211248" duration="2252000" />
+      <workItem from="1663828211248" duration="2380000" />
+      <workItem from="1663892889838" duration="4017000" />
+      <workItem from="1663909817518" duration="24000" />
     </task>
     <task id="LOCAL-00001" summary="자바과제">
       <created>1663828235909</created>
@@ -97,7 +142,14 @@
       <option name="project" value="LOCAL" />
       <updated>1663830468255</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="자바과제 0923">
+      <created>1663830507074</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1663830507074</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -116,6 +168,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="자바과제" />
-    <option name="LAST_COMMIT_MESSAGE" value="자바과제" />
+    <MESSAGE value="자바과제 0923" />
+    <option name="LAST_COMMIT_MESSAGE" value="자바과제 0923" />
   </component>
 </project>
