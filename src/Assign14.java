@@ -1,5 +1,5 @@
 //키보드에서 입력한 3개의 정숫값 중 중앙값을 구해서 표시하는 프로그램을 작성
-//!!보류!!
+//!! 보류
 import java.util.Scanner;
 
 public class Assign14 {
