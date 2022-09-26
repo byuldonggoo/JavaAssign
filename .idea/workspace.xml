@@ -1,12 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="6555dce8-c504-4e6d-8a30-06a113655edf" name="Changes" comment="보류">
-      <change afterPath="$PROJECT_DIR$/src/Assign16.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Assign17.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Assign18.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Assign19.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    <list default="true" id="6555dce8-c504-4e6d-8a30-06a113655edf" name="Changes" comment="자바과제 0926">
+      <change beforePath="$PROJECT_DIR$/src/Assign20.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Assign20.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -98,7 +94,7 @@
       <workItem from="1663909817518" duration="184000" />
       <workItem from="1664152722628" duration="3203000" />
       <workItem from="1664161380779" duration="625000" />
-      <workItem from="1664194542341" duration="73000" />
+      <workItem from="1664194542341" duration="143000" />
     </task>
     <task id="LOCAL-00001" summary="자바과제">
       <created>1663828235909</created>
@@ -170,7 +166,14 @@
       <option name="project" value="LOCAL" />
       <updated>1663909925454</updated>
     </task>
-    <option name="localTasksCounter" value="11" />
+    <task id="LOCAL-00011" summary="자바과제 0926">
+      <created>1664194647629</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1664194647629</updated>
+    </task>
+    <option name="localTasksCounter" value="12" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -191,6 +194,7 @@
     <MESSAGE value="자바과제" />
     <MESSAGE value="자바과제 0923" />
     <MESSAGE value="보류" />
-    <option name="LAST_COMMIT_MESSAGE" value="보류" />
+    <MESSAGE value="자바과제 0926" />
+    <option name="LAST_COMMIT_MESSAGE" value="자바과제 0926" />
   </component>
 </project>

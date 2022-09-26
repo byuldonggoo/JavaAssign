@@ -1,4 +1,4 @@
-//2개의 정숫값중 작은 값과 큰 값을 표시하는 프로그램작성.
+//2개의 정숫값중 작은 값과 큰 값을 표시하는 프로그램.
 import java.util.Scanner;
 
 public class Assign20 {
