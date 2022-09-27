@@ -1,12 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="6555dce8-c504-4e6d-8a30-06a113655edf" name="Changes" comment="보류">
+    <list default="true" id="6555dce8-c504-4e6d-8a30-06a113655edf" name="Changes" comment="0927과제">
       <change afterPath="$PROJECT_DIR$/src/Assign16.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/Assign17.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/Assign18.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/Assign19.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Assign20.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/Assign14.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Assign14.java" afterDir="false" />
     </list>
@@ -45,14 +44,7 @@
     &quot;settings.editor.selected.configurable&quot;: &quot;File.Encoding&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.Assign20">
-    <configuration name="Assign11" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Assign11" />
-      <module name="JavaAssign" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Application.Assign21">
     <configuration name="Assign12" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Assign12" />
       <module name="JavaAssign" />
@@ -81,13 +73,20 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="Assign21" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Assign21" />
+      <module name="JavaAssign" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Assign21" />
         <item itemvalue="Application.Assign20" />
         <item itemvalue="Application.Assign15" />
         <item itemvalue="Application.Assign13" />
         <item itemvalue="Application.Assign12" />
-        <item itemvalue="Application.Assign11" />
       </list>
     </recent_temporary>
   </component>
@@ -103,7 +102,8 @@
       <workItem from="1663892889838" duration="4017000" />
       <workItem from="1663909817518" duration="184000" />
       <workItem from="1664152722628" duration="3203000" />
-      <workItem from="1664161380779" duration="625000" />
+      <workItem from="1664161380779" duration="3311000" />
+      <workItem from="1664241031193" duration="654000" />
     </task>
     <task id="LOCAL-00001" summary="자바과제">
       <created>1663828235909</created>
@@ -175,7 +175,21 @@
       <option name="project" value="LOCAL" />
       <updated>1663909925454</updated>
     </task>
-    <option name="localTasksCounter" value="11" />
+    <task id="LOCAL-00011" summary="0926과제">
+      <created>1664162072170</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1664162072170</updated>
+    </task>
+    <task id="LOCAL-00012" summary="0927과제">
+      <created>1664241582241</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1664241582241</updated>
+    </task>
+    <option name="localTasksCounter" value="13" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -196,6 +210,8 @@
     <MESSAGE value="자바과제" />
     <MESSAGE value="자바과제 0923" />
     <MESSAGE value="보류" />
-    <option name="LAST_COMMIT_MESSAGE" value="보류" />
+    <MESSAGE value="0926과제" />
+    <MESSAGE value="0927과제" />
+    <option name="LAST_COMMIT_MESSAGE" value="0927과제" />
   </component>
 </project>
