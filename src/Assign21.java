@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-//정숫값의 부호를 판정해서 표시
+//정숫값의 부호를 판정해서 표시.
 public class Assign21 {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
