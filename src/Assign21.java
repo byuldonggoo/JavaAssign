@@ -8,10 +8,10 @@ public class Assign21 {
         boolean sw = true;
 
         while (sw) {
-            System.out.println("정숫값:");
+            System.out.print("정숫값:");
             int num = scanner.nextInt();
             if (num > 0) {
-                System.out.print("이 값은 양수입니다.");
+                System.out.println("이 값은 양수입니다.");
             } else if (num < 0) {
                 System.out.println("이 값은 음수입니다.");
             } else {
@@ -23,5 +23,6 @@ public class Assign21 {
             if (answer == 0) sw=false;
 
         }
+        System.out.println("프로그램을 종료합니다.");
     }
 }
