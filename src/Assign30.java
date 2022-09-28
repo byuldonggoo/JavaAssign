@@ -12,9 +12,8 @@ public class Assign30 {
         }while(num<=0);
 
         int times=1;
-        double ten=10;
-        while (num / ten > 1) {
-            num=num/ten;
+        while (num /10 > 1) {
+            num=num/10;
             times++;
         }
         System.out.println(times);
