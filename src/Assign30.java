@@ -11,8 +11,8 @@ public class Assign30 {
             num = scanner.nextInt();
         }while(num<=0);
 
-        int times=1;
-        while (num /10 > 1) {
+        int times=0;
+        while (num> 1) {
             num=num/10;
             times++;
         }
