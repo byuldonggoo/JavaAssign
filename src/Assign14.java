@@ -14,7 +14,7 @@ public class Assign14 {
 
         int med;
         if (a >= b) {
-            if()
+
         }
 
     }
