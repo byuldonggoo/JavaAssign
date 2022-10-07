@@ -1,4 +1,4 @@
-//1부터 num까지의 정숫값의 제곱표시
+// 1부터 num까지의 정숫값의 제곱표시
 
 import java.util.Scanner;
 

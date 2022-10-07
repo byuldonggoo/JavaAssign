@@ -2,9 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="6555dce8-c504-4e6d-8a30-06a113655edf" name="Changes" comment="자바과제 0930">
-      <change afterPath="$PROJECT_DIR$/src/Assign41.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Assign14.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Assign14.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Assign41.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Assign41.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Assign42.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Assign42.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -113,7 +113,7 @@
       <workItem from="1664869925258" duration="241000" />
       <workItem from="1664870181136" duration="212000" />
       <workItem from="1664892381032" duration="3000" />
-      <workItem from="1665145111932" duration="972000" />
+      <workItem from="1665145111932" duration="1991000" />
     </task>
     <task id="LOCAL-00001" summary="자바과제">
       <created>1663828235909</created>
